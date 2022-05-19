@@ -2,7 +2,8 @@
 .gcloudignore
 .gitignore
 *.sh
-readme.md
+*.md
+.DS_Store
 
 **/__pycache__
 **/.venv

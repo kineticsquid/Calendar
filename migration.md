@@ -9,6 +9,6 @@
 1. Move `run-image-locally.sh` to `.vscode` to it doesn't get committed. 
 1. Rename scripts to be consistent. 
 1. Do not create a `Zsh` launch config to start the script to build and run locally. Extension does not permit `Ctrl-C` to terminate the app. Instead, run from a terminal. 
-1. Create `Clode Code: Debug on Cloud Run Emulator`: Debug (or Run) image locally. Add environment variables in advanced setting or in `launch.json`.
+1. Create `Cloud Code: Debug on Cloud Run Emulator`: Debug (or Run) image locally. Add environment variables in advanced setting or in `launch.json`.
 1. `Cloud Code: Deploy to Cloud Run`: Depoy changes
 
